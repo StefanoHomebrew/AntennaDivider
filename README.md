@@ -1,0 +1,1 @@
+"divider" o anche antenna splitter, o meglio, potrete collegare una singola antenna a quattro radio riceventi (funziona solo in ricezione!) simultaneamente! Senza bisogno di commutatori! Progetto di IW2DOF  Graziano.
